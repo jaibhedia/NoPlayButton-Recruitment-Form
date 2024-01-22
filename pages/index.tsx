@@ -89,12 +89,15 @@ const IndexPage = () => {
           >
             Accept
           </a>
-          <button
+         
+          <a
+            href="https://imgflip.com/i/8d6lyh" 
+            target="_blank" 
+            rel="noopener noreferrer"
             className="px-6 py-2 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-red-700"
-            onClick={() => {/* handle decline action here */}}
           >
             Decline
-          </button>
+          </a>
         </div>
       </div>
     </div>
